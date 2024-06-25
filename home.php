@@ -105,7 +105,7 @@
    </div>
    <div class="content">
       <h3>about us</h3>
-      <p>Amazing Tours a Best tour Operator and Travel agent in Bangladesh. We are Tour Package, Hotel booking. Bangladesh Tours & Travel agent. Find international and domestic tour packages from bangladesh at low prices including best ... Travel Package | Honeymoon Package | Tour Package</p>
+      <p>Amazing Tours a Best tour Operator and Travel agent in USA. We provide Tour Package, Hotel booking. Bangladesh Tours & Travel agent. Find international and domestic tour packages from bangladesh at low prices including best ... Travel Package | Honeymoon Package | Tour Package</p>
       <a href="about.php" class="btn">read more</a>
    </div>
 </section>
@@ -223,7 +223,7 @@
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
       </div>
    </div>
-   <div class="credit"> designed by <span>muskaan</span> | all rights reserved! </div>
+   <div class="credit"> designed by <span>Somrup</span> | all rights reserved! </div>
 <!-- footer section ends -->
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
